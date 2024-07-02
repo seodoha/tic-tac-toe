@@ -1,0 +1,21 @@
+{
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.iconTheme": "eq-material-theme-icons-deepforest",
+  "editor.formatOnSave": true,
+  "notebook.formatOnSave.enabled": true,
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tabSize": 2,
+  "editor.stickyScroll.enabled": false,
+  "git.autofetch": true
+}
